@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+*{
+  font-family: 'Bree Serif', serif;
+
+}
+
+.weather-container{
+  height: 300px;
+  width: 300px;
+  background-color: rgb(243, 225, 27);
+  border-radius: 20px;
+}
+
+.top-bar{
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+
+
+}
+
+.top-bar input{
+  display: flex;
+margin-bottom: 20px;
+}
